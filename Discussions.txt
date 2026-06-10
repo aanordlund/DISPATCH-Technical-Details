@@ -1,0 +1,8 @@
+This file is intended for discussions of a nature that should leave a trail -- there is also a "chat" mechanism over to the right that can be used for volatile messaging.
+
+Material of more permanent nature should be moved to the User Guide.
+
+Lines in this files should be auto-wrapped, to allow changing the panel size freely.
+
+It might be an advantage (possibly), to use "Rich Text" format for this file.
+----------------------------------------------
